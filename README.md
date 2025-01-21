@@ -17,7 +17,7 @@ bubble layouts.
 
 ## HOW TO RUN : 
 
-- After pulling from github open up your terminal and download the requirements.txt file
-- Then start your env and type this command in the terminal : python3 main.py
+- After pulling from github open up your terminal and download the requirements.txt file (pip install -r /path/to/requirements.txt)
+- Make sure your virtualenv is running and type this command in the terminal : python3 main.py  (source ./yourENV/bin/activate)
 - This will open up local host in your browser and you can now access the website
 - This will become an actual website in the future.
