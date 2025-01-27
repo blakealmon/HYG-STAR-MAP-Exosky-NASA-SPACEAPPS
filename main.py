@@ -218,6 +218,8 @@ def star_colorscale():
 
 hyg_map = HYG_Map()
 
+
+# app routes for html webpage
 @app.route('/')
 def home():
     return render_template('home.html')
